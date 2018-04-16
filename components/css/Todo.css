@@ -1,0 +1,13 @@
+p {
+  display: inline-block;
+  padding: 5px;
+}
+
+input {
+  display: inline-block;
+  padding: 5px;
+}
+
+.editing {
+  border: 1px solid red;
+}
